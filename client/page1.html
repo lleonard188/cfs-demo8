@@ -1,0 +1,13 @@
+<template name="page1">
+	<h2>Picture</h2>
+	<p>
+	{{#each images}}
+  			<img src="{{url}}" alt="" height="150" width="150">
+  			<input type="button" value="remove" class="btnRemove">
+	{{else}}
+			No files uploaded.
+	{{/each}}
+	</p>
+	<p>Upload profile pics:</p>
+	<p><input name="files" id="files" type="file" multiple></p>
+</template>

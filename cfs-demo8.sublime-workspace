@@ -1,0 +1,1282 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"hobbies",
+				"hobbies"
+			],
+			[
+				"Meteor",
+				"Meteor.Router.filter"
+			],
+			[
+				"field",
+				"fieldNames"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"r",
+				"res"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "client/layout.html",
+			"settings":
+			{
+				"buffer_size": 208,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/router.js",
+			"settings":
+			{
+				"buffer_size": 174,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/page1.html",
+			"settings":
+			{
+				"buffer_size": 332,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/page2.html",
+			"settings":
+			{
+				"buffer_size": 120,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/page1.js",
+			"settings":
+			{
+				"buffer_size": 748,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/page2.js",
+			"settings":
+			{
+				"buffer_size": 167,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "server/server.js",
+			"settings":
+			{
+				"buffer_size": 1104,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 138.0,
+		"selected_items":
+		[
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"en",
+				"Package Control: Enable Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"pac",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"US",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"ke",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"us",
+				"Preferences: Settings - User"
+			],
+			[
+				"use",
+				"Preferences: Settings - User"
+			],
+			[
+				"p",
+				"Project: Close"
+			],
+			[
+				"save ",
+				"Project: Save As"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"ke de",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"key us",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"syn htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"fetc",
+				"Fetch: Package"
+			],
+			[
+				"fet",
+				"Fetch: File"
+			],
+			[
+				"ke us",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"del",
+				"File: Delete"
+			],
+			[
+				"op",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"intsl",
+				"Package Control: Install Package"
+			],
+			[
+				"openr",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"setting",
+				"Preferences: Settings - User"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"browe",
+				"Preferences: Browse Packages"
+			],
+			[
+				"lin",
+				"SublimeLint: Next Error"
+			],
+			[
+				"SYN JAVAS",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"INSTAL",
+				"Package Control: Install Package"
+			],
+			[
+				"INST",
+				"Package Control: Install Package"
+			],
+			[
+				"KEY",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"synt",
+				"Set Syntax: HTML"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"an",
+				"Snippet: Angular.js"
+			],
+			[
+				"sni",
+				"Snippet: Prototype"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"angula",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"syntax html",
+				"Set Syntax: HTML"
+			],
+			[
+				"html",
+				"HTML: Encode Special Characters"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/len/Projects/meteor/cfs-demo8/client/maing.js",
+		"/home/len/Projects/meteor/cfs-demo8/client/main.html",
+		"/home/len/Projects/meteor/cfs-demo8/client/main.js",
+		"/home/len/Projects/meteor/cfs-demo3/smart.json",
+		"/home/len/Projects/meteor/cfs-demo2/smart.lock",
+		"/home/len/Projects/meteor/cfs-demo2/smart.json",
+		"/home/len/Projects/meteor/cfs-demo2/cfs-demo2.js",
+		"/home/len/Projects/meteor/cfs-demo2/cfs-demo2.html",
+		"/home/len/Projects/meteor/cfs-demo/cfs-demo.js",
+		"/home/len/Projects/meteor/cfs-demo/smart.lock",
+		"/home/len/Projects/meteor/cfs-demo/smart.json",
+		"/home/len/Projects/meteor/cfs-demo/cfs-demo.html",
+		"/home/len/Projects/meteor/twocompatible/client/views/components/image_uploader.html",
+		"/home/len/Projects/meteor/twocompatible/smart.json",
+		"/home/len/Projects/meteor/twocompatible/lib/router.js",
+		"/home/len/Projects/meteor/twocompatible/client/views/components/profile_pic.js",
+		"/home/len/Projects/meteor/twocompatible/client/stylesheets/styles.css",
+		"/home/len/Projects/meteor/twocompatible/client/views/components/image_uploader.js",
+		"/home/len/Projects/meteor/twocompatible/client/main.js",
+		"/home/len/Projects/meteor/twocompatible/client/views/pages/editprofile.html",
+		"/home/len/Projects/meteor/twocompatible/collections/images.js",
+		"/home/len/Projects/meteor/twocompatible/.meteor/packages",
+		"/home/len/Projects/meteor/twocompatible/server/images.js",
+		"/home/len/Projects/meteor/twocompatible/packages/imagemagick/imagemagick.js",
+		"/home/len/Projects/meteor/twocompatible/packages/iron-router/.build/npm/node_modules/connect/node_modules/bytes/Makefile",
+		"/home/len/Projects/meteor/twocompatible/client/views/components/profile_pic.html",
+		"/home/len/Projects/meteor/twocompatible/.meteor/local/build/programs/ctl/node_modules/npm/lib/view.js",
+		"/home/len/Projects/meteor/twocompatible/.meteor/local/build/programs/ctl/node_modules/npm/lib/version.js",
+		"/home/len/Projects/meteor/twocompatible/.meteor/local/build/programs/ctl/node_modules/esprima/bin/esvalidate.js",
+		"/home/len/Projects/meteor/twocompatible/packages/imagemagick/.build/npm/node_modules/.node_version",
+		"/home/len/Projects/meteor/twocompatible/.meteor/local/build/programs/server/npm/email/main/node_modules/mailcomposer/lib/mailcomposer.js",
+		"/home/len/Projects/meteor/twocompatible/client/views/components/hobbies.html",
+		"/home/len/Projects/meteor/twocompatible/client/views/components/hobbies.js",
+		"/home/len/Projects/meteor/twocompatible/client/views/components/notes.html",
+		"/home/len/Projects/meteor/twocompatible/collections/notes.js",
+		"/home/len/Projects/meteor/twocompatible/client/views/components/notes.js",
+		"/home/len/Projects/meteor/twocompatible/packages/imagemagick/.build/browser/packages/imagemagick.js",
+		"/home/len/Projects/meteor/twocompatible/collections/hobbies.js",
+		"/home/len/Projects/meteor/twocompatible/.meteor/local/build/programs/ctl/node_modules/npm/doc/api/npm-outdated.md",
+		"/home/len/Projects/meteor/twocompatible/.meteor/local/build/star.json",
+		"/home/len/Projects/meteor/twocompatible/.meteor/local/build/programs/client/app/collections/images.js",
+		"/home/len/Projects/meteor/twocompatible/meteortwocompatible.sublime-project",
+		"/home/len/Projects/meteor/twocompatible/client/views/components/quiz_component.js",
+		"/home/len/Projects/meteor/twocompatible/client/views/pages/quiz.html",
+		"/home/len/Projects/meteor/twocompatible/client/views/components/quiz_component.html",
+		"/home/len/Projects/meteor/twocompatible/client/views/application/layout.html",
+		"/home/len/Projects/meteor/twocompatible/.meteor/local/build/programs/server/node_modules/tar/test/pack-no-proprietary.js",
+		"/home/len/Projects/meteor/twocompatible/.meteor/local/build/programs/server/node_modules/npm/doc/api/npm-edit.md",
+		"/home/len/Projects/meteor/twocompatible/client/main.html",
+		"/home/len/Projects/meteor/twocompatible/.meteor/local/build/programs/ctl/node_modules/optimist/test/_/argv.js",
+		"/home/len/Projects/meteor/twocompatible/packages/event-hooks/client.js",
+		"/home/len/Projects/meteor/twocompatible/packages/collectionFS/collectionFS_server.js",
+		"/home/len/Projects/meteor/twocompatible/.meteor/local/build/programs/ctl/node_modules/source-map-support/source-map-support.js",
+		"/home/len/Projects/meteor/twocompatible/.meteor/local/build/programs/ctl/node_modules/request/node_modules/form-data/node_modules/combined-stream/test/integration/test-is-stream-like.js",
+		"/home/len/Projects/meteor/twocompatible/.meteor/local/build/programs/ctl/node_modules/request/node_modules/http-signature/node_modules/ctype/tst/ctf/int.json",
+		"/home/len/Projects/meteor/twocompatible/packages/event-hooks/.build/browser.json",
+		"/home/len/Projects/meteor/twocompatible/.meteor/local/build/programs/ctl/npm/ctl-helper/main/node_modules/optimist/test/_/argv.js",
+		"/home/len/Projects/meteor/twocompatible/.meteor/local/build/programs/ctl/node_modules/fstream/lib/proxy-reader.js",
+		"/home/len/Projects/meteor/twocompatible/.meteor/local/build/programs/ctl/npm/logging/main/node_modules/cli-color/node_modules/es5-ext/lib/Array/prototype/e-index-of.js",
+		"/home/len/Projects/meteor/twocompatible/client/views/pages/home.html",
+		"/home/len/Projects/meteor/twocompatible/client/profile_pic.js",
+		"/home/len/Projects/meteor/twocompatible/client/image_uploader.html",
+		"/home/len/Projects/meteor/twocompatible/client/image_uploader.js",
+		"/home/len/Projects/meteor/twocompatible/client/profile_pic.html",
+		"/home/len/Projects/meteor/twocompatible/.meteor/local/build/programs/ctl/node_modules/bcrypt/test/sync.js",
+		"/home/len/Projects/meteor/twocompatible/server/publications.js",
+		"/home/len/Projects/meteor/twocompatible/client/views/pages/about.html",
+		"/home/len/Projects/meteor/twocompatible/client/views/main.js",
+		"/home/len/Projects/meteor/twocompatible/client/collections/images.js",
+		"/home/len/Projects/meteor/twocompatible/.meteor/local/build/programs/ctl/node_modules/npm/node_modules/retry/lib/retry_operation.js",
+		"/home/len/Projects/meteor/twocompatible/.meteor/release",
+		"/home/len/Projects/meteor/twocompatible/packages/iron-router/History.md",
+		"/home/len/Projects/meteor/twocompatible/packages/iron-router/.build/os.json",
+		"/home/len/Projects/meteor/twocompatible/.meteor/local/build/programs/ctl/node_modules/npm/node_modules/read-package-json/node_modules/normalize-package-data/lib/extract_description.js",
+		"/home/len/Projects/meteor/twocompatible/clients/views/editprofile.html",
+		"/home/len/Projects/meteor/twocompatible/packages/iron-router/test/old/server/server_router_test.js",
+		"/home/len/Projects/meteor/twocompatible/.meteor/local/build/programs/ctl/node_modules/request/tests/test-localAddress.js",
+		"/home/len/Projects/meteor/twocompatible/packages/iron-router/license.txt",
+		"/home/len/Projects/meteor/twocompatible/packages/iron-router/test/old/route_path_test.js",
+		"/home/len/Projects/meteor/twocompatible/.meteor/local/build/programs/ctl/node_modules/npm/node_modules/npm-registry-client/lib/publish.js",
+		"/home/len/Projects/meteor/twocompatible/packages/iron-router/.npm/package/node_modules/connect/lib/utils.js",
+		"/home/len/Projects/meteor/twocompatible/.meteor/local/build/programs/client/packages/insecure.js",
+		"/home/len/Projects/meteor/twocompatible/packages/iron-router/CHANGELOG.md",
+		"/home/len/Projects/meteor/twocompatible/.meteor/local/build/programs/ctl/node_modules/npm/node_modules/ansi/color-spaces.pl",
+		"/home/len/Projects/meteor/twocompatible/.meteor/local/build/programs/client/packages/minimongo.js",
+		"/home/len/Projects/meteor/twocompatible/client/views/layout.html",
+		"/home/len/Projects/meteor/twocompatible/.gitignore",
+		"/home/len/Projects/meteor/twocompatible/.meteor/.gitignore",
+		"/home/len/Projects/meteor/twocompatible/.meteor/local/build/programs/client/packages/geojson-utils.js",
+		"/home/len/Projects/meteor/twocompatible/untitled.sublime-project",
+		"/home/len/Projects/meteor/twocompatible/twocompatible.css",
+		"/home/len/Projects/meteor/twocompatible/twocompatible.html",
+		"/home/len/Projects/meteor/twocompatible/twocompatible.js",
+		"/home/len/Projects/meteor/twocompatible/.meteor/local/build/programs/client/packages/handlebars.js",
+		"/home/len/Projects/meteor/twocompatible/.meteor/local/build/programs/ctl/node_modules/npm/node_modules/github-url-from-git/History.md",
+		"/home/len/Projects/meteor/twocompatible/smart.lock",
+		"/home/len/Projects/meteor/microscope/client/views/post_page.js",
+		"/home/len/Projects/meteor/microscope/collections/posts.js",
+		"/home/len/Projects/meteor/microscope/collections/comments.js",
+		"/home/len/Projects/meteor/microscope/.meteor/local/build/programs/server/node_modules/npm/scripts/clean-old.sh",
+		"/home/len/Projects/meteor/microscope/client/views/posts/post_item.js",
+		"/home/len/Projects/meteor/microscope/client/views/comments/comment.js",
+		"/home/len/Projects/meteor/microscope/client/views/comments/comment.html",
+		"/home/len/Projects/meteor/microscope/client/helpers/router.js",
+		"/home/len/Projects/meteor/microscope/client/main.js",
+		"/home/len/Projects/meteor/microscope/server/fixtures.js",
+		"/home/len/Projects/meteor/microscope/client/views/posts/post_page.html",
+		"/home/len/Projects/meteor/microscope/client/views/posts/post_edit.html",
+		"/home/len/Projects/meteor/microscope/.meteor/local/build/programs/ctl/node_modules/optimist/node_modules/minimist/test/parse_modified.js",
+		"/home/len/Projects/meteor/microscope/client/main.html",
+		"/home/len/Projects/meteor/microscope/client/views/includes/errors.html",
+		"/home/len/Projects/meteor/microscope/server/publications.js",
+		"/home/len/Projects/meteor/microscope/client/views/includes/header.html",
+		"/home/len/Projects/meteor/microscope/client/helpers/errors.js",
+		"/home/len/Projects/meteor/microscope/client/views/includes/errors.js",
+		"/home/len/Projects/meteor/microscope/.meteor/local/build/programs/ctl/node_modules/source-map/build/prefix-utils.jsm",
+		"/home/len/Projects/meteor/microscope/.meteor/.gitignore",
+		"/home/len/Projects/meteor/microscope/.meteor/local/build/programs/ctl/node_modules/npm/lib/utils/is-git-url.js",
+		"/home/len/Projects/meteor/microscope/.meteor/local/build/programs/client/packages/global-imports.js",
+		"/home/len/Projects/meteor/microscope/packages/HTML5-History-API/HTML5-History-API/LICENSE-GPL",
+		"/home/len/Projects/meteor/microscope/client/helpers/config.js",
+		"/home/len/Projects/meteor/microscope/client/views/includes/loading.html",
+		"/home/len/Projects/meteor/microscope/client/views/posts/post_submit.js",
+		"/home/len/Projects/meteor/microscope/client/views/posts/post_edit.js",
+		"/home/len/Projects/meteor/microscope/client/views/posts/posts_list.html",
+		"/home/len/Projects/meteor/microscope/client/views/posts/post_item.html",
+		"/home/len/Projects/meteor/microscope/lib/permissions.js",
+		"/home/len/Projects/meteor/microscope/client/views/posts/posts_list.js"
+	],
+	"find":
+	{
+		"height": 54.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\n",
+			"currentPost",
+			"\">\n",
+			"currentPost",
+			"clean",
+			"localhost",
+			"Light",
+			"ng",
+			"mongoDB",
+			"mongodb",
+			"err",
+			"\n})",
+			"function",
+			"fun",
+			"cons",
+			"Incoming",
+			"=\"<?"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "client/layout.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 208,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								40,
+								40
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "lib/router.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 174,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								174,
+								174
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "client/page1.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 332,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								21,
+								21
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "client/page2.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 120,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								120,
+								120
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "client/page1.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 748,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								233,
+								233
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "client/page2.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 167,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "server/server.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1104,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1104,
+								1104
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 171.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "cfs-demo8.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"cfs-demo.html"
+			],
+			[
+				"edi",
+				"client/views/pages/editprofile.html"
+			],
+			[
+				"im",
+				"client/views/components/image_uploader.html"
+			],
+			[
+				"sma",
+				"smart.json"
+			],
+			[
+				"ima",
+				"server/images.js"
+			],
+			[
+				"imag",
+				"collections/images.js"
+			],
+			[
+				"hob",
+				"client/views/components/hobbies.html"
+			],
+			[
+				"pr",
+				"client/views/components/profile_pic.js"
+			],
+			[
+				"profi",
+				"client/views/components/profile_pic.html"
+			],
+			[
+				"i",
+				"collections/images.js"
+			],
+			[
+				"st",
+				"client/stylesheets/styles.css"
+			],
+			[
+				"s",
+				"client/stylesheets/styles.css"
+			],
+			[
+				"hobb",
+				"client/views/components/hobbies.js"
+			],
+			[
+				"ho",
+				"client/views/components/hobbies.html"
+			],
+			[
+				"note",
+				"collections/notes.js"
+			],
+			[
+				"notes",
+				"collections/notes.js"
+			],
+			[
+				"hobbi",
+				"client/views/components/hobbies.js"
+			],
+			[
+				"styl",
+				"client/stylesheets/styles.css"
+			],
+			[
+				"pro",
+				"client/views/components/profile_pic.js"
+			],
+			[
+				"sty",
+				"client/stylesheets/styles.css"
+			],
+			[
+				"quijs",
+				"client/views/components/quiz_component.js"
+			],
+			[
+				"hobbie",
+				"client/views/components/hobbies.js"
+			],
+			[
+				"qu",
+				"client/views/components/quiz_component.html"
+			],
+			[
+				"ro",
+				"lib/router.js"
+			],
+			[
+				"quizcom",
+				"client/views/components/quiz_component.html"
+			],
+			[
+				"qui",
+				"client/views/pages/quiz.html"
+			],
+			[
+				"rou",
+				"lib/router.js"
+			],
+			[
+				"h",
+				"client/views/components/hobbies.js"
+			],
+			[
+				"hobjs",
+				"collections/hobbies.js"
+			],
+			[
+				"profile",
+				"client/views/components/profile_pic.html"
+			],
+			[
+				"syl",
+				"client/stylesheets/styles.css"
+			],
+			[
+				"ed",
+				"client/views/pages/editprofile.html"
+			],
+			[
+				"mai",
+				"client/views/main.js"
+			],
+			[
+				"rout",
+				"lib/router.js"
+			],
+			[
+				"hom",
+				"client/views/pages/home.html"
+			],
+			[
+				"home",
+				"client/views/pages/home.html"
+			],
+			[
+				"edit",
+				"client/views/pages/editprofile.html"
+			],
+			[
+				"lay",
+				"client/views/application/layout.html"
+			],
+			[
+				"ma",
+				"client/main.html"
+			],
+			[
+				"la",
+				"client/views/application/layout.html"
+			],
+			[
+				"m",
+				"client/main.html"
+			],
+			[
+				"l",
+				"client/views/application/layout.html"
+			],
+			[
+				"layo",
+				"client/views/application/layout.html"
+			],
+			[
+				"router",
+				"client/helpers/router.js"
+			],
+			[
+				"gitig",
+				".gitignore"
+			],
+			[
+				"git",
+				".meteor/.gitignore"
+			],
+			[
+				"postpa",
+				"client/views/posts/post_page.html"
+			],
+			[
+				"commen",
+				"client/views/comments/comment.js"
+			],
+			[
+				"com",
+				"collections/comments.js"
+			],
+			[
+				"comm",
+				"client/views/comments/comment.html"
+			],
+			[
+				"poit",
+				"client/views/posts/post_item.js"
+			],
+			[
+				"postti",
+				"client/views/posts/post_item.html"
+			],
+			[
+				"postitm",
+				"client/views/posts/post_item.html"
+			],
+			[
+				"post",
+				"client/views/post_page.js"
+			],
+			[
+				"post_page",
+				"client/views/posts/post_page.html"
+			],
+			[
+				"fi",
+				"server/fixtures.js"
+			],
+			[
+				"erro",
+				"client/views/includes/errors.js"
+			],
+			[
+				"public",
+				"server/publications.js"
+			],
+			[
+				"err",
+				"client/views/includes/errors.js"
+			],
+			[
+				"he",
+				"client/views/includes/header.html"
+			],
+			[
+				"posed",
+				"client/views/posts/post_edit.html"
+			],
+			[
+				"error",
+				"client/helpers/errors.js"
+			],
+			[
+				"pos",
+				"collections/posts.js"
+			],
+			[
+				"postlis",
+				"client/views/posts/posts_list.html"
+			],
+			[
+				"postitem",
+				"client/views/posts/post_item.js"
+			],
+			[
+				"postit",
+				"client/views/posts/post_item.html"
+			],
+			[
+				"poli",
+				"client/views/posts/posts_list.html"
+			],
+			[
+				"posts.",
+				"collections/posts.js"
+			],
+			[
+				"er",
+				"client/views/includes/errors.html"
+			],
+			[
+				"postsub",
+				"client/views/posts/post_submit.js"
+			],
+			[
+				"po",
+				"client/views/posts/post_item.js"
+			],
+			[
+				"posli",
+				"client/views/posts/posts_list.js"
+			],
+			[
+				"lis",
+				"client/views/posts/posts_list.html"
+			],
+			[
+				"r",
+				"client/helpers/router.js"
+			],
+			[
+				"inde",
+				"app/index.html"
+			],
+			[
+				"server",
+				"server.js"
+			],
+			[
+				"maijs",
+				"app/scripts/controllers/main.js"
+			],
+			[
+				"twosublime",
+				"app/views/twocompatible.sublime-project"
+			],
+			[
+				"main.html",
+				"app/views/main.html"
+			],
+			[
+				"app",
+				"app/scripts/app.js"
+			],
+			[
+				"twoserve",
+				"twocompatible/server.js"
+			],
+			[
+				"twoin",
+				"twocompatible/app/index.html"
+			],
+			[
+				"twomai",
+				"twocompatible/app/views/main.html"
+			],
+			[
+				"twoapp",
+				"twocompatible/app/scripts/app.js"
+			],
+			[
+				"twocore",
+				"twocompatible/public/core.js"
+			],
+			[
+				"app.j",
+				"twocompatible/app/scripts/app.js"
+			],
+			[
+				"twoind",
+				"twocompatible/app/index.html"
+			],
+			[
+				"twomainht",
+				"twocompatible/app/views/main.html"
+			],
+			[
+				"twotcs",
+				"twocompatible/public/tcstyles.css"
+			],
+			[
+				"pa",
+				"twocompatible/package.json"
+			],
+			[
+				"twoser",
+				"twocompatible/server.js"
+			],
+			[
+				"yeo3gru",
+				"angular/yeoman3/Gruntfile.js"
+			],
+			[
+				"twogr",
+				"twocompatible/Gruntfile.js"
+			],
+			[
+				"yeo3pa",
+				"angular/yeoman3/package.json"
+			],
+			[
+				"gru",
+				"twocompatible/Gruntfile.js"
+			],
+			[
+				"yeoman3grunt",
+				"angular/yeoman3/Gruntfile.js"
+			],
+			[
+				"twoda",
+				"twocompatible/config/database.js"
+			],
+			[
+				"twose",
+				"twocompatible/server.js"
+			],
+			[
+				"y3specmai",
+				"angular/yeoman3/test/spec/controllers/main.js"
+			],
+			[
+				"y3k",
+				"angular/yeoman3/karma.conf.js"
+			],
+			[
+				"yeoman3gr",
+				"angular/yeoman3/Gruntfile.js"
+			],
+			[
+				"yeoman3",
+				"angular/yeoman3/app/index.html"
+			],
+			[
+				"yeomanin",
+				"angular/yeoman/app/index.html"
+			],
+			[
+				"yeoman3in",
+				"angular/yeoman3/app/index.html"
+			],
+			[
+				"phonewbse",
+				"angular/angular-phonecat/scripts/web-server.js"
+			],
+			[
+				"phonecatwe",
+				"angular/angular-phonecat/scripts/web-server.js"
+			],
+			[
+				"angular-phinde",
+				"angular/angular-phonecat/app/index.html"
+			],
+			[
+				"cor",
+				"twocompatible/public/core.js"
+			],
+			[
+				"core",
+				"twocompatible/public/core.js"
+			],
+			[
+				"twoproces",
+				"twocompatible/app/process.js"
+			],
+			[
+				"twocompatiblecore.j",
+				"twocompatible/public/core.js"
+			],
+			[
+				"twoccore",
+				"twocompatible/public/core.js"
+			],
+			[
+				"tcs",
+				"twocompatible/public/tcstyles.css"
+			],
+			[
+				"angular.min",
+				"twocompatible/bower_components/angular/angular.min.js"
+			],
+			[
+				"tcst",
+				"twocompatible/public/tcstyles.css"
+			],
+			[
+				"grunt",
+				"angular/yeoman/Gruntfile.js"
+			],
+			[
+				"bow",
+				"angular/thinkster-firebase-tutorial/bower.json"
+			],
+			[
+				"proce",
+				"angular/scotch-angular-forms/process.php"
+			],
+			[
+				"angularformsin",
+				"angular/scotch-angular-forms/index.html"
+			],
+			[
+				"angularformsind",
+				"angular/scotch-angular-forms/index.html"
+			],
+			[
+				"angular.js",
+				"angular/thinkster-firebase-tutorial/bower_components/angular/angular.js"
+			],
+			[
+				"scoind",
+				"angular/scotch-angular-forms/index.html"
+			],
+			[
+				"twoco",
+				"twocompatible/public/index.html"
+			],
+			[
+				"packa",
+				"twocompatible/package.json"
+			],
+			[
+				"twocompatibleserver",
+				"twocompatible/server.js"
+			],
+			[
+				"headercon",
+				"angular/thinkster-firebase-tutorial/app/js/controllers/headercontroller.js"
+			],
+			[
+				"head",
+				"angular/thinkster-firebase-tutorial/app/views/header.html"
+			],
+			[
+				"heaerco",
+				"angular/thinkster-firebase-tutorial/app/js/controllers/headercontroller.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Projects/meteor/twocompatible/meteortwocompatible.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 896.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
