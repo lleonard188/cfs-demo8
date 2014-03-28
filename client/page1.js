@@ -1,6 +1,6 @@
 var imageStore = new FS.Store.S3("images");
  
-var images = new FS.Collection("images", {
+images = new FS.Collection("images", {
     stores: [imageStore],
     filter: {
         allow: {

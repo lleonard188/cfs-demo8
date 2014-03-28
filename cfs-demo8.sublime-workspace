@@ -63,7 +63,7 @@
 			"file": "client/page1.js",
 			"settings":
 			{
-				"buffer_size": 748,
+				"buffer_size": 744,
 				"line_ending": "Unix"
 			}
 		},
@@ -71,7 +71,7 @@
 			"file": "client/page2.js",
 			"settings":
 			{
-				"buffer_size": 167,
+				"buffer_size": 372,
 				"line_ending": "Unix"
 			}
 		},
@@ -79,7 +79,7 @@
 			"file": "server/server.js",
 			"settings":
 			{
-				"buffer_size": 1104,
+				"buffer_size": 1100,
 				"line_ending": "Unix"
 			}
 		}
@@ -471,7 +471,7 @@
 	"groups":
 	[
 		{
-			"selected": 5,
+			"selected": 6,
 			"sheets":
 			[
 				{
@@ -500,7 +500,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
@@ -530,7 +530,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -546,8 +546,8 @@
 						"selection":
 						[
 							[
-								21,
-								21
+								23,
+								23
 							]
 						],
 						"settings":
@@ -560,7 +560,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
@@ -576,8 +576,8 @@
 						"selection":
 						[
 							[
-								120,
-								120
+								23,
+								23
 							]
 						],
 						"settings":
@@ -598,15 +598,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 748,
+						"buffer_size": 744,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								233,
-								233
+								201,
+								201
 							]
 						],
 						"settings":
@@ -620,7 +620,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
@@ -629,44 +629,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 167,
+						"buffer_size": 372,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"_anf_new": "",
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "server/server.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1104,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1104,
-								1104
+								204,
+								204
 							]
 						],
 						"settings":
@@ -677,10 +648,41 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 171.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "server/server.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1100,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								188,
+								188
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
