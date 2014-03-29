@@ -1,9 +1,4 @@
-var imageStore = new FS.Store.S3("images", {
-	region: "us-east-1",
-	accessKeyId: "***********", 
-	secretAccessKey: "************", 
-	bucket: "cfs-demo8"
-});
+var imageStore = new FS.Store.GridFS("images");
 
 var images = new FS.Collection("images", {
     stores: [imageStore],

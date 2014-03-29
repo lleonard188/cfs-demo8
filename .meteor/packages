@@ -5,8 +5,8 @@
 
 standard-app-packages
 preserve-inputs
-collectionFS
-cfs-s3
 iron-router
 accounts-ui
 accounts-password
+collectionFS
+cfs-gridfs

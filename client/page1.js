@@ -1,4 +1,4 @@
-var imageStore = new FS.Store.S3("images");
+var imageStore = new FS.Store.GridFS("images");
  
 images = new FS.Collection("images", {
     stores: [imageStore],
