@@ -31,10 +31,6 @@ images.deny({
         //Get array of images belong to user
         var userImages = images.find({'metadata.owner': userId}).fetch();
 
-        //If there's too many images then deny the insert
-        if (userImages.length > 1){
-            return true;
-        }
     }
 });
  
