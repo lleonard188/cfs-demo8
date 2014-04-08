@@ -1,6 +1,6 @@
 <template name="layout">
-	{{loginButtons}}
+	{{> loginButtons}}
 	<div class="panelmenu"><a href="{{pathFor 'page1'}}">Page1</a></div>
     <div class="panelmenu"><a href="{{pathFor 'page2'}}">Page2</a></div>
-	{{yield}}
+	{{> yield}}
 </template>
