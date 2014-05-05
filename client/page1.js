@@ -6,10 +6,27 @@ images = new FS.Collection("images", {
         allow: {
             contentTypes: ['image/*']
         }
+    },
+    onInvalid: function (message) {
+        throwError(message);
     }
 });
  
 Meteor.subscribe('images');
+
+images.deny({
+    insert: function(userId, fileObj) {
+
+        //Get array of images belong to user
+        var userImages = images.find({'metadata.owner': userId}).fetch();
+
+        //If there's too many images then deny the insert
+        if (userImages.length > 2){
+            throwError("Too many images.")
+            return true;
+        }
+    }
+});
  
 Template.page1.images = function () {
     var user = Meteor.user()? Meteor.user(): 'none';
